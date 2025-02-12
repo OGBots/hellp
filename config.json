@@ -3,6 +3,6 @@
     "initial_threads": "900",
     "initial_packets": "9",
     "initial_binary": "teamog",
-    "max_attack_time": 240,
-    "attack_cooldown": 300
+    "max_attack_time": 360,
+    "attack_cooldown": 30
 }
